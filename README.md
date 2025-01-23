@@ -14,8 +14,6 @@ Install required libraries:
 
 ## 3. Workflow
 Step 1: Fetch Data from APIs <br>
-The notebook fetches data from 7 APIs provided by Financial Modeling Prep:
-
-API 1: Real-time stock price and basic metrics.
-
-API 5, API 6, API 7: Historical financial statements (income statement, cash flow statement).
+The notebook fetches data from 7 APIs provided by Financial Modeling Prep: <br>
+API 1: Real-time stock price and basic metrics. <br>
+API 5, API 6, API 7: Historical financial statements (income statement, cash flow statement). <br>
