@@ -13,8 +13,7 @@ Install required libraries:
 2. Company Name: The stock ticker symbol (e.g., AAPL) for which the analysis is performed.
 
 ## 3. Workflow
-Step 1: Fetch Data from APIs
-
+Step 1: Fetch Data from APIs <br>
 The notebook fetches data from 7 APIs provided by Financial Modeling Prep:
 
 API 1: Real-time stock price and basic metrics.
