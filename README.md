@@ -7,3 +7,7 @@ While the current implementation is deterministic and rule-based, it serves as a
 ## 1. Prerequisites
 Install required libraries:
 ### pip install transformers requests
+
+## 2. Input Parameters
+1. API Key: Used to authenticate API calls.
+2. Company Name: The stock ticker symbol (e.g., AAPL) for which the analysis is performed.
